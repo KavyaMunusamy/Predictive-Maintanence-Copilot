@@ -1,1 +1,2 @@
 # Predictive-Maintanence-Copilot
+I developed an AI-driven predictive maintenance system using Python, Scikit-learn (Random Forest), NumPy, and Pandas to analyze sensor data (temperature, vibration, pressure), achieving ~90% accuracy in failure prediction. Integrated a Generative AI copilot using OpenAI API / LLMs to provide real-time root cause analysis and automated maintenance recommendations, reducing diagnostic time by ~40%. Built and deployed an interactive dashboard using Streamlit and Joblib, enabling real-time monitoring and simulating industrial IoT applications.
